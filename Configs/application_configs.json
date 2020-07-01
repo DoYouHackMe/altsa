@@ -1,0 +1,39 @@
+{
+    "opencurrently": [
+        "316628106330767360",
+        "270273429435973632"
+    ],
+    "apps": {
+        "316628106330767360-retEDn1Ev6Hr": {
+            "open": true,
+            "questions": [
+                "Add new questions here if you know how to edit arrays properly!",
+                "Or use .appquestion"
+            ],
+            "current-complete": [
+                "Why do you want to join this faction?",
+                "ok"
+            ],
+            "created": "2020-02-22T14:38:02.612Z",
+            "currentquestion": 2,
+            "totalquestions": 2,
+            "underReview": true
+        },
+        "270273429435973632-Wc4sZc3NVZwW": {
+            "open": true,
+            "questions": [
+                "Add new questions here if you know how to edit arrays properly!",
+                "Or use .appquestion"
+            ],
+            "current-complete": [
+                "d",
+                "d"
+            ],
+            "created": "2020-02-22T14:38:29.303Z",
+            "currentquestion": 2,
+            "totalquestions": 2,
+            "underReview": true
+        }
+    },
+    "acceptmsgs": []
+}

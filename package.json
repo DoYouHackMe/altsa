@@ -1,0 +1,20 @@
+{
+  "name": "hysteria",
+  "version": "1.0.0",
+  "description": "Discord Bot for Hysteria made by GreatGod.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GreatGod",
+  "license": "ISC",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "discord-anti-spam": "^2.3.5",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4"
+  }
+}

@@ -1,0 +1,26 @@
+===============================================
+                Bot Setup
+===============================================
+
+got to https://discord.com/developers/applications and create a new bot
+after that go to bot category and click add bot next go to OAuth2 and click bot
+copy paste your link and invite the bot to the server 
+
+
+===============================================
+                Config Setup 
+===============================================
+
+double click !general_config.json 
+put minecraft account email at username
+put minecraft account password at password
+put your server ip at server ip
+put your joincmd for your server ( example /demonic ) 
+put the token that you got from discord developers
+put at "allowed_guilds" and "guild" server id 
+also you need to copy paste !general_config.json  at general_config
+
+
+When your bot is online, do .settings to configure the Faction Bot!
+If you need any support or need help with anything create a ticket!
+Also you will need nodejs that you will find at https://nodejs.org/en
